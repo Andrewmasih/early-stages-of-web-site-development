@@ -1,4 +1,4 @@
-# designing early stage of a Web Page
+# designing a very basic a Web Page
 
 Welcome !
 
